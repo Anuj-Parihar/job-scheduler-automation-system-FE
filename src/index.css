@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+html, body, #root { height: 100%; }
+
+
+/* small helper */
+.code-box { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', monospace; }
+
